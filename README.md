@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Enrique 👋
 
-<!--
-**enrquin/enrquin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering + Statistics student (**INdat**) at the **Universidad de Valladolid**, Spain.
+I'm interested in **data analysis**: turning raw data into clear, reproducible insights and visualizations.
 
-Here are some ideas to get you started:
+## 🔧 What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Data & statistics:** Python, R
+- **Visualization:** D3.js, HTML, CSS, JavaScript
+- **Software:** Python (FastAPI, pytest), SQLite
+- **Tools:** Git, LaTeX
+
+## 🚀 Projects
+
+I'm preparing my first public projects in data analysis and data visualization. They will appear here soon.
+
+## 🎯 Currently
+
+- Looking for a **data analysis internship** (2027).
+- Building a portfolio that combines software engineering and statistics.
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/enrique-quinones-ureta)
+
+---
+
+🇪🇸 **En español:** Estudiante de Ingeniería Informática y Estadística (INdat) en la Universidad de Valladolid. Me interesan el análisis y la visualización de datos, y busco prácticas en análisis de datos.
