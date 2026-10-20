@@ -21,7 +21,7 @@ I'm preparing my first public projects in data analysis and data visualization. 
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/enrique-quinones-ureta)
+[LinkedIn](https://www.linkedin.com/in/enrique-qui%C3%B1ones-ureta-ba7606317)
 
 ---
 
