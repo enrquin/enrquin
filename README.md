@@ -13,7 +13,8 @@ I'm interested in **data analysis and AI**: turning raw data into clear, reprodu
 
 ## 🚀 Projects
 
-I'm preparing my first public projects in data analysis and data visualization. They will appear here soon.
+- **[Suburbious](https://github.com/javivsr/Suburbious-board-game-python)** · Python, wxPython — Turn-based grid strategy board game with recursive flood-fill algorithms, co-developed with [@javivsr](https://github.com/javivsr). I added the wxPython graphical version ([PR #1](https://github.com/javivsr/Suburbious-board-game-python/pull/1)).
+- 🔜 **Data analysis project** — in progress.
 
 ## 🎯 Currently
 
