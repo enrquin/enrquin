@@ -23,7 +23,7 @@ I'm interested in **data analysis and AI**: turning raw data into clear, reprodu
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/enrique-qui%C3%B1ones-ureta-ba7606317)
+[LinkedIn](https://www.linkedin.com/in/enrique-quinones-ureta)
 
 ---
 
